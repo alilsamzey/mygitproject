@@ -1,4 +1,4 @@
-package market;
+package mygitpackage;
 
 import java.util.ArrayList;
 import java.util.HashMap;
